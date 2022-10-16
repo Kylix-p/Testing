@@ -1,0 +1,2 @@
+Hello this is new file zero.txt
+Hello to zero.txt
